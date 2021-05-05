@@ -12,6 +12,6 @@ This app serves as the back-end for an E-Commerce Website. Express.js was used f
 https://github.com/rayaalsaedi/E-Commerce-Bank-End
 
 # Demo:
-Gif of the app:
+Click on the image below to play the video.
 
-![Screenshot](assets/demo.gif)
+![Screenshot](assets/demo.gif)(https://drive.google.com/file/d/1ElRatTSRDReIsxrHvVl6DZjHzaVBdRw5/view?usp=sharing)
