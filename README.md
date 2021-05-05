@@ -14,4 +14,4 @@ https://github.com/rayaalsaedi/E-Commerce-Bank-End
 # Demo:
 Click on the image below to play the video.
 
-![Screenshot](assets/demo.gif)(https://drive.google.com/file/d/1ElRatTSRDReIsxrHvVl6DZjHzaVBdRw5/view?usp=sharing)
+[![Screenshot](assets/demo.gif)](https://drive.google.com/file/d/1ElRatTSRDReIsxrHvVl6DZjHzaVBdRw5/view?usp=sharing)
